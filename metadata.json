@@ -1,0 +1,6 @@
+{
+  "name": "InMobi Test",
+  "description": "Simple app to test InMobi Interstitial and Rewarded Ads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
